@@ -1,6 +1,6 @@
-Paml stands for **Pa**llada **M**odeling **L**anguage, an object-modeling language as a part of [Pallada project](http://pallada-project.com). The Pallada project is an attempt to research and develop a modeling language and corresponding tools to improve object-oriented approach based on concepts of OOP, MDD, AOP and other practical approaches.
+Paml stands for **Pa**llada **M**odeling **L**anguage, an object-modeling language as a part of [Pallada project](https://www.pallada-project.com). The Pallada project is an attempt to research and develop a modeling language and corresponding tools to improve object-oriented approach based on concepts of OOP, MDD, AOP and other practical approaches.
 
-Paml concepts are originally described [here](http://pallada-project.com/2015/11/08/paml-concepts), but the concepts have been updated since the project started and develop.
+Paml concepts are originally described [here](https://www.pallada-project.com/2015/11/08/paml-concepts), but the concepts have been updated since the project started and develop.
 
 The key concepts of Paml are:
 
